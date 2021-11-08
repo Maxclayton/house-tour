@@ -9,6 +9,9 @@
     right: 0;
     position:fixed;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
 
 html, body{

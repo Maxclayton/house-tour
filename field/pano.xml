@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.13" apprev="18080">
+  <input leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" height="1536" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1536" levelbiashidpi="1.000">
+    <level preload="0" height="1536" predecode="0" width="1536"/>
+    <level preload="0" height="768" predecode="0" width="768"/>
+    <level preload="1" height="384" predecode="1" width="384"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" pan="0" tilt="0" projection="4"/>
+    <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fov="120" fovstereographic="270" pan="360" scaletofit="1" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata longitude="-111.65444000" author="Cam Stephens" tags="Downloads" source="" nodeid="node1" info="" title="Spanish Fork Memorial Square" datetime="9/23/21 8:30 PM" comment="" customnodeid="" streetviewlink="https://www.google.com/maps/@40.11266,-111.65444,3a,75y,347.5h,90t/data=!3m4!1e1!3m2!1sAF1QipNfTf_3346gXn5hTYnGISi-wdoI2fv-9OhnJYHT!2e10" description="Memorial Square Park on Main Street in Spanish Fork Utah" copyright="" latitude="40.11266000" heading="0"/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label enabled="1" borderalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff" borderradius="1" height="20" textalpha="1" width="180" backgroundalpha="1" background="1" bordercolor="0x000000" wordwrap="1"/>
+    <polystyle borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" zoomfov="20" zoomout="0" zoomoutpause="1" zoomin="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="20" softedge="0" type="crossdissolve" zoomafterinfov="90"/>
+  <flyintransition enabled="1" speed="1.00"/>
+  <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+  <control dblclickfullscreen="0" sensitivity="8" invertwheel="0" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" lockedkeyboardzoom="0" contextvr="1" simulatemass="1" rubberband="0" lockedwheel="0"/>
+</panorama>
