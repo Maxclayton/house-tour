@@ -1,7 +1,6 @@
 html, body{
     margin:0;
     padding:0;
-    min-width: 1140px; /* this is the important part*/
 }
 
 .heading {
@@ -12,11 +11,32 @@ html, body{
     .heading.heading {
         font-size: 25px;
     }
-    .container {
+    .container.container {
         float: left;
+    }
+
+    .html {
+        width: 50vh;
     }
   }
 
+  .tour {
+      display: flex;
+     align-items: center;
+     transition: .2s
+  }
+
+
+
   .tour:hover {
-      padding-bottom: 25px;
+      padding-bottom: 5px;
+      text-decoration: none;
+  }
+
+  .container {
+      width:100%
+  }
+
+  .wrap {
+    width: 100%;
   }
