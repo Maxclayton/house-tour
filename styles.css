@@ -5,6 +5,18 @@ html, body{
 }
 
 .heading {
-
     font-size: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+    .heading.heading {
+        font-size: 25px;
+    }
+    .container {
+        float: left;
+    }
+  }
+
+  .tour:hover {
+      padding-bottom: 25px;
+  }
