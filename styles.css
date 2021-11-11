@@ -1,29 +1,10 @@
-
-
-.holder {
-        height: 100vh;
-    width: 100%;
-    background-color: orange;
-    margin: auto;
-    left: 0;
-    right: 0;
-    position:fixed;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-}
-
 html, body{
     margin:0;
     padding:0;
     min-width: 1140px; /* this is the important part*/
 }
 
-.tour {
-    font-size: 20vmin;
-    text-decoration: none;
-    color: black;
-    cursor: pointer;
-    text-decoration: underline;
+.heading {
+
+    font-size: 30px;
 }
