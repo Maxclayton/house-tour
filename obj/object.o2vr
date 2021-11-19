@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Object2VR project file  -->
+<object2vrconfig>
+  <object>
+    <input>
+      <images>
+        <image>
+          <orderid>0,0,0,0</orderid>
+          <filename>../IMG_4190.CR2</filename>
+        </image>
+        <image>
+          <orderid>1,0,0,0</orderid>
+          <filename>../IMG_4191.CR2</filename>
+        </image>
+        <image>
+          <orderid>2,0,0,0</orderid>
+          <filename>../IMG_4192.CR2</filename>
+        </image>
+        <image>
+          <orderid>3,0,0,0</orderid>
+          <filename>../IMG_4193.CR2</filename>
+        </image>
+        <image>
+          <orderid>4,0,0,0</orderid>
+          <filename>../IMG_4194.CR2</filename>
+        </image>
+        <image>
+          <orderid>5,0,0,0</orderid>
+          <filename>../IMG_4195.CR2</filename>
+        </image>
+        <image>
+          <orderid>6,0,0,0</orderid>
+          <filename>../IMG_4196.CR2</filename>
+        </image>
+        <image>
+          <orderid>7,0,0,0</orderid>
+          <filename>../IMG_4197.CR2</filename>
+        </image>
+        <image>
+          <orderid>8,0,0,0</orderid>
+          <filename>../IMG_4198.CR2</filename>
+        </image>
+        <image>
+          <orderid>9,0,0,0</orderid>
+          <filename>../IMG_4199.CR2</filename>
+        </image>
+        <image>
+          <orderid>10,0,0,0</orderid>
+          <filename>../IMG_4200.CR2</filename>
+        </image>
+        <image>
+          <orderid>11,0,0,0</orderid>
+          <filename>../IMG_4201.CR2</filename>
+        </image>
+        <image>
+          <orderid>12,0,0,0</orderid>
+          <filename>../IMG_4202.CR2</filename>
+        </image>
+        <image>
+          <orderid>13,0,0,0</orderid>
+          <filename>../IMG_4203.CR2</filename>
+        </image>
+        <image>
+          <orderid>14,0,0,0</orderid>
+          <filename>../IMG_4204.CR2</filename>
+        </image>
+        <image>
+          <orderid>15,0,0,0</orderid>
+          <filename>../IMG_4205.CR2</filename>
+        </image>
+        <image>
+          <orderid>16,0,0,0</orderid>
+          <filename>../IMG_4206.CR2</filename>
+        </image>
+        <image>
+          <orderid>17,0,0,0</orderid>
+          <filename>../IMG_4207.CR2</filename>
+        </image>
+        <image>
+          <orderid>18,0,0,0</orderid>
+          <filename>../IMG_4208.CR2</filename>
+        </image>
+        <image>
+          <orderid>19,0,0,0</orderid>
+          <filename>../IMG_4209.CR2</filename>
+        </image>
+        <image>
+          <orderid>20,0,0,0</orderid>
+          <filename>../IMG_4210.CR2</filename>
+        </image>
+        <image>
+          <orderid>21,0,0,0</orderid>
+          <filename>../IMG_4211.CR2</filename>
+        </image>
+        <image>
+          <orderid>22,0,0,0</orderid>
+          <filename>../IMG_4212.CR2</filename>
+        </image>
+        <image>
+          <orderid>23,0,0,0</orderid>
+          <filename>../IMG_4213.CR2</filename>
+        </image>
+      </images>
+      <columns>24</columns>
+      <rows>1</rows>
+      <states>1</states>
+      <animations>1</animations>
+    </input>
+    <userdata/>
+    <control>
+      <type>grabber</type>
+      <wraphorizontal>1</wraphorizontal>
+      <reversehorizontal>0</reversehorizontal>
+      <wrapvertical>0</wrapvertical>
+      <reversevertical>0</reversevertical>
+      <swapverticalhorizontal>0</swapverticalhorizontal>
+      <startcolumn>3</startcolumn>
+      <startrow>0</startrow>
+    </control>
+    <output>
+      <htmlcss>
+        <html>
+          <filename>output/object.html</filename>
+          <enabled>1</enabled>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">true</value>
+            <value id="jsxml">false</value>
+            <value id="manifest">false</value>
+            <value id="showuserdata">false</value>
+            <value id="swf"></value>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+          </values>
+        </html>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>0</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <hotspotstyle>
+          <viewmode>hidden</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <filename>output/object_out.xml</filename>
+        <windowwidth>631</windowwidth>
+        <windowheight>640</windowheight>
+        <tilewidth>0</tilewidth>
+        <tilewidthauto>1</tilewidthauto>
+        <imageformat>1</imageformat>
+        <quality>90</quality>
+        <imagepath>images</imagepath>
+        <preloadimages>1</preloadimages>
+        <keepwindowaspectratio>1</keepwindowaspectratio>
+        <background>1</background>
+        <backgroundcolor>#ffffff</backgroundcolor>
+        <imagescaling>min</imagescaling>
+        <allowzoom>0</allowzoom>
+        <zoomdefault>1</zoomdefault>
+        <zoommax>2</zoommax>
+        <centerx>0</centerx>
+        <centery>0</centery>
+        <automovemode>1</automovemode>
+        <autoplay>rotate</autoplay>
+        <autoplayspeed>0.5</autoplayspeed>
+        <autoplaydelay>5</autoplaydelay>
+        <skinSvgToPng>0</skinSvgToPng>
+        <skinimagepath>images</skinimagepath>
+        <sensitivity>10</sensitivity>
+        <masssimulation>1</masssimulation>
+        <mouselocked>0</mouselocked>
+        <dblclickfullscreen>0</dblclickfullscreen>
+        <lockedwheel>0</lockedwheel>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <hideaboutbox>0</hideaboutbox>
+        <leveltileenabled>0</leveltileenabled>
+        <leveltilesize>512</leveltilesize>
+        <leveltilefilename>tiles/c%c_l%r_%y_%x.jpg</leveltilefilename>
+        <leveltilegeneratefiles>1</leveltilegeneratefiles>
+        <leveltileoverlap>1</leveltileoverlap>
+      </htmlcss>
+      <htmlcss>
+        <html>
+          <filename>object_1.html</filename>
+          <enabled>1</enabled>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">false</value>
+            <value id="jsxml">false</value>
+            <value id="manifest">false</value>
+            <value id="showuserdata">true</value>
+            <value id="swf"></value>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+          </values>
+        </html>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>0</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <hotspotstyle>
+          <viewmode>hidden</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <filename>object_out.xml</filename>
+        <windowwidth>631</windowwidth>
+        <windowheight>640</windowheight>
+        <tilewidth>0</tilewidth>
+        <tilewidthauto>1</tilewidthauto>
+        <imageformat>1</imageformat>
+        <quality>90</quality>
+        <imagepath>images</imagepath>
+        <preloadimages>1</preloadimages>
+        <keepwindowaspectratio>1</keepwindowaspectratio>
+        <background>1</background>
+        <backgroundcolor>#ffffff</backgroundcolor>
+        <imagescaling>min</imagescaling>
+        <allowzoom>0</allowzoom>
+        <zoomdefault>1</zoomdefault>
+        <zoommax>2</zoommax>
+        <centerx>0</centerx>
+        <centery>0</centery>
+        <automovemode>1</automovemode>
+        <autoplay>rotate</autoplay>
+        <autoplayspeed>0.5</autoplayspeed>
+        <autoplaydelay>5</autoplaydelay>
+        <skinSvgToPng>0</skinSvgToPng>
+        <skinimagepath>images</skinimagepath>
+        <sensitivity>10</sensitivity>
+        <masssimulation>1</masssimulation>
+        <mouselocked>0</mouselocked>
+        <dblclickfullscreen>0</dblclickfullscreen>
+        <lockedwheel>0</lockedwheel>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <hideaboutbox>0</hideaboutbox>
+        <leveltileenabled>0</leveltileenabled>
+        <leveltilesize>512</leveltilesize>
+        <leveltilefilename>tiles/c%c_l%r_%y_%x.jpg</leveltilefilename>
+        <leveltilegeneratefiles>1</leveltilegeneratefiles>
+        <leveltileoverlap>1</leveltileoverlap>
+      </htmlcss>
+      <htmlcss>
+        <html>
+          <filename>object_1.html</filename>
+          <enabled>1</enabled>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">false</value>
+            <value id="jsxml">false</value>
+            <value id="manifest">false</value>
+            <value id="showuserdata">false</value>
+            <value id="swf"></value>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+          </values>
+        </html>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>0</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <hotspotstyle>
+          <viewmode>hidden</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <filename>object_out.xml</filename>
+        <windowwidth>631</windowwidth>
+        <windowheight>640</windowheight>
+        <tilewidth>0</tilewidth>
+        <tilewidthauto>1</tilewidthauto>
+        <imageformat>1</imageformat>
+        <quality>90</quality>
+        <imagepath>images</imagepath>
+        <preloadimages>1</preloadimages>
+        <keepwindowaspectratio>1</keepwindowaspectratio>
+        <background>1</background>
+        <backgroundcolor>#ffffff</backgroundcolor>
+        <imagescaling>min</imagescaling>
+        <allowzoom>0</allowzoom>
+        <zoomdefault>1</zoomdefault>
+        <zoommax>2</zoommax>
+        <centerx>0</centerx>
+        <centery>0</centery>
+        <automovemode>1</automovemode>
+        <autoplay>rotate</autoplay>
+        <autoplayspeed>0.2</autoplayspeed>
+        <autoplaydelay>5</autoplaydelay>
+        <skinSvgToPng>0</skinSvgToPng>
+        <skinimagepath>images</skinimagepath>
+        <sensitivity>10</sensitivity>
+        <masssimulation>1</masssimulation>
+        <mouselocked>0</mouselocked>
+        <dblclickfullscreen>0</dblclickfullscreen>
+        <lockedwheel>0</lockedwheel>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <hideaboutbox>0</hideaboutbox>
+        <leveltileenabled>0</leveltileenabled>
+        <leveltilesize>512</leveltilesize>
+        <leveltilefilename>tiles/c%c_l%r_%y_%x.jpg</leveltilefilename>
+        <leveltilegeneratefiles>1</leveltilegeneratefiles>
+        <leveltileoverlap>1</leveltileoverlap>
+      </htmlcss>
+    </output>
+    <basepath>.</basepath>
+    <hotspots/>
+    <imageprocessing>
+      <crop>
+        <xpos>773</xpos>
+        <ypos>0</ypos>
+        <width>3412</width>
+        <height>3456</height>
+        <enable>1</enable>
+      </crop>
+      <levels>
+        <enable>1</enable>
+        <blackpoint>0</blackpoint>
+        <gamma>1.26643</gamma>
+        <whitepoint>196</whitepoint>
+        <neutralcolorred>1</neutralcolorred>
+        <neutralcolorgreen>1</neutralcolorgreen>
+        <neutralcolorblue>1</neutralcolorblue>
+      </levels>
+      <sharpen/>
+      <masks/>
+      <transform/>
+    </imageprocessing>
+  </object>
+</object2vrconfig>
